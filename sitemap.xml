@@ -6,119 +6,229 @@
     <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/"/>
-    <changefreq>monthly</changefreq>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dinclegal.com/"/>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.dinclegal.com/hakkimizda.html</loc>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/hakkimizda.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/about.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/ueber-uns.html"/>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.dinclegal.com/hizmetler.html</loc>
     <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/hizmetler.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/services.html"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/leistungen.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dinclegal.com/hizmetler.html"/>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.dinclegal.com/hizmetler.html#musavirlik</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/hizmetler.html#musavirlik"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/services.html#legal-advisory"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/leistungen.html#rechtsberatung"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dinclegal.com/hizmetler.html#musavirlik"/>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.dinclegal.com/hizmetler.html#ticaret</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/hizmetler.html#ticaret"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/services.html#commercial"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/leistungen.html#handelsrecht"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dinclegal.com/hizmetler.html#ticaret"/>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.84</priority>
+  </url>
+  <url>
+    <loc>https://www.dinclegal.com/hizmetler.html#arabuluculuk</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/hizmetler.html#arabuluculuk"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/services.html#mediation"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/leistungen.html#mediation"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dinclegal.com/hizmetler.html#arabuluculuk"/>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.83</priority>
+  </url>
+  <url>
+    <loc>https://www.dinclegal.com/hizmetler.html#is</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/hizmetler.html#is"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/services.html#labor"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/leistungen.html#arbeitsrecht"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dinclegal.com/hizmetler.html#is"/>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.82</priority>
+  </url>
+  <url>
+    <loc>https://www.dinclegal.com/hizmetler.html#gayrimenkul</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/hizmetler.html#gayrimenkul"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/services.html#realestate"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/leistungen.html#immobilienrecht"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dinclegal.com/hizmetler.html#gayrimenkul"/>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.81</priority>
+  </url>
+  <url>
+    <loc>https://www.dinclegal.com/hizmetler.html#icra</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/hizmetler.html#icra"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/services.html#enforcement"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/leistungen.html#vollstreckung"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dinclegal.com/hizmetler.html#icra"/>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.dinclegal.com/hizmetler.html#aile</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/hizmetler.html#aile"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/services.html#family"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/leistungen.html#familienrecht"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dinclegal.com/hizmetler.html#aile"/>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.79</priority>
+  </url>
+  <url>
+    <loc>https://www.dinclegal.com/hizmetler.html#ceza</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/hizmetler.html#ceza"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/services.html#criminal"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/leistungen.html#strafrecht"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dinclegal.com/hizmetler.html#ceza"/>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.78</priority>
+  </url>
+  <url>
+    <loc>https://www.dinclegal.com/hakkimizda.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/hakkimizda.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/ueber-uns.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dinclegal.com/hakkimizda.html"/>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.dinclegal.com/iletisim.html</loc>
     <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/iletisim.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/contact.html"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/kontakt.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dinclegal.com/iletisim.html"/>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.dinclegal.com/en/</loc>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/"/>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.dinclegal.com/en/about.html</loc>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/hakkimizda.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/about.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/ueber-uns.html"/>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.dinclegal.com/en/services.html</loc>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/hizmetler.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/services.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/leistungen.html"/>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.dinclegal.com/en/contact.html</loc>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/iletisim.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/contact.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/kontakt.html"/>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.dinclegal.com/de/</loc>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/"/>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://www.dinclegal.com/de/ueber-uns.html</loc>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/hakkimizda.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/about.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/ueber-uns.html"/>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.dinclegal.com/de/leistungen.html</loc>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/hizmetler.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/services.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/leistungen.html"/>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.dinclegal.com/de/kontakt.html</loc>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/iletisim.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/contact.html"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/kontakt.html"/>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.dinclegal.com/kariyer.html</loc>
     <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/kariyer.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/career.html"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/karriere.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dinclegal.com/kariyer.html"/>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.dinclegal.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dinclegal.com/"/>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.dinclegal.com/en/services.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/hizmetler.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/services.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/leistungen.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dinclegal.com/hizmetler.html"/>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.dinclegal.com/en/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/hakkimizda.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/ueber-uns.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dinclegal.com/hakkimizda.html"/>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://www.dinclegal.com/en/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/iletisim.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/kontakt.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dinclegal.com/iletisim.html"/>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
   </url>
   <url>
     <loc>https://www.dinclegal.com/en/career.html</loc>
     <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/kariyer.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/career.html"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/karriere.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dinclegal.com/kariyer.html"/>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://www.dinclegal.com/de/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dinclegal.com/"/>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.dinclegal.com/de/leistungen.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/hizmetler.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/services.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/leistungen.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dinclegal.com/hizmetler.html"/>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://www.dinclegal.com/de/ueber-uns.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/hakkimizda.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/ueber-uns.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dinclegal.com/hakkimizda.html"/>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://www.dinclegal.com/de/kontakt.html</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/iletisim.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/kontakt.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dinclegal.com/iletisim.html"/>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
   </url>
   <url>
     <loc>https://www.dinclegal.com/de/karriere.html</loc>
     <xhtml:link rel="alternate" hreflang="tr" href="https://www.dinclegal.com/kariyer.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.dinclegal.com/en/career.html"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.dinclegal.com/de/karriere.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.dinclegal.com/kariyer.html"/>
+    <lastmod>2026-07-20</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.55</priority>
   </url>
 </urlset>
