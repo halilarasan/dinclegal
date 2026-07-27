@@ -1,5 +1,5 @@
 /**
- * Dinç Legal — Main JS
+ * Alagöz Dinç Legal — Main JS
  * Minimal: mobile menu, header scroll effect, deferred hero video
  */
 (function () {

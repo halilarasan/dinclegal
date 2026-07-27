@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dinc.legal/sitemap.xml
+Sitemap: https://alagozdinc.legal/sitemap.xml

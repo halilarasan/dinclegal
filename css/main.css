@@ -1,5 +1,5 @@
 /* ========================================
-   Dinç Legal — Design System
+   Alagöz Dinç Legal — Design System
    Kurumsal Kimlik: #0B4228 · #D4AF37 · #FAF8F5
    ======================================== */
 
@@ -223,7 +223,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .logo-img {
   display: block;
-  height: clamp(34px, 4.4vw, 44px);
+  height: clamp(48px, 5vw, 58px);
   width: auto;
 }
 
@@ -1042,6 +1042,12 @@ h1, h2, h3, h4, h5, h6 {
   align-items: start;
 }
 
+.about-team-stack {
+  display: flex;
+  flex-direction: column;
+  gap: clamp(1rem, 2.5vw, 1.5rem);
+}
+
 .about-founder-card {
   padding: clamp(1.75rem, 3vw, 2.5rem);
   background: var(--primary-color);
@@ -1282,7 +1288,7 @@ h1, h2, h3, h4, h5, h6 {
 .footer-logo-img {
   display: block;
   width: auto;
-  max-width: 168px;
+  max-width: 220px;
   height: auto;
   margin: 0 0 1rem;
 }
@@ -1381,7 +1387,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 
   .logo-img {
-    max-height: 36px;
+    max-height: 48px;
   }
 
   /* backdrop-filter breaks position:fixed for mobile nav children */
