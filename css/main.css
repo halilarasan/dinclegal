@@ -1600,10 +1600,23 @@ h1, h2, h3, h4, h5, h6 {
 
   .about-depth-prose > .about-text {
     order: 3;
+    margin-bottom: 0;
   }
 
   .about-depth-prose > .about-closing-text {
     order: 4;
+  }
+
+  .section.about-depth {
+    padding-bottom: 2rem;
+  }
+
+  .about-closing-text {
+    border-left: none;
+    border: 3px solid var(--accent-color);
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-block: clamp(1.5rem, 3vw, 2rem);
   }
 
   .about-image {
@@ -1655,11 +1668,6 @@ h1, h2, h3, h4, h5, h6 {
   .about-prose .about-text {
     text-align: left;
     hyphens: none;
-  }
-
-  .about-closing-text {
-    border-left: none;
-    border: 3px solid var(--accent-color);
   }
 
   .services-grid,
@@ -1739,6 +1747,10 @@ h1, h2, h3, h4, h5, h6 {
 
   .section-header {
     margin-bottom: 2rem;
+  }
+
+  .services-intro-line + .services-intro-line {
+    margin-top: 0;
   }
 
   .cta-banner .section-title {
