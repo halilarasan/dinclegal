@@ -223,7 +223,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .logo-img {
   display: block;
-  height: clamp(48px, 5vw, 58px);
+  height: clamp(40px, 4vw, 47px);
   width: auto;
 }
 
@@ -1594,11 +1594,11 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 0.5rem;
   }
 
-  .about-depth-prose > .about-text {
+  .about-team-stack {
     order: 2;
   }
 
-  .about-team-stack {
+  .about-depth-prose > .about-text {
     order: 3;
   }
 
