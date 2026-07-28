@@ -1415,10 +1415,28 @@ h1, h2, h3, h4, h5, h6 {
 
   .header-inner {
     min-width: 0;
+    gap: 0.5rem;
+  }
+
+  .logo {
+    min-width: 0;
+    flex: 1 1 auto;
+    overflow: hidden;
+    max-width: calc(100% - 7.75rem);
   }
 
   .logo-img {
-    max-height: 48px;
+    max-height: 42px;
+    width: auto;
+    max-width: min(215px, 54vw);
+    object-fit: contain;
+    object-position: left center;
+  }
+
+  .header-actions {
+    flex-shrink: 0;
+    margin-left: auto;
+    min-width: 7rem;
   }
 
   /* backdrop-filter breaks position:fixed for mobile nav children */
@@ -1734,6 +1752,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 @media (max-width: 480px) {
+  .logo {
+    max-width: calc(100% - 6.5rem);
+  }
+
+  .logo-img {
+    max-height: 36px;
+    max-width: min(175px, 50vw);
+  }
+
   .hero-actions {
     flex-direction: column;
     width: 100%;
